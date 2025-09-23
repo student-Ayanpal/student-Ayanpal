@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=I'm+Ayan+Paul;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=I'm+Ayan+Pal;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 “Small steps every day lead to big results.”
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWVibXd3dmhrcmx2bjZ1MnY4aDFidjI3ZHZ4cWk3NnByc2U1MndxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jwxy5MXUWDKlUtQatg/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjI5NzNwbm9vdnpqZGhvdGJnMjV0c2sxaXZleXZzOWhiNmhmMmIzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="400">
 
 ---
 
-# 👨‍💻 Ayan Paul  
+# 👨‍💻 Ayan Pal  
 
 🌟 B.Tech Student | Aspiring Full-Stack Developer  
 
@@ -40,4 +40,4 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: **ayanpaul@example.com**
+- 📧 Email: **ayanp0759@gmail.com**
