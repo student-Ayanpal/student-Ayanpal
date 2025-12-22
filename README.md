@@ -48,7 +48,7 @@
 ## 📌 Featured Projects
 🔹 [Web Article to PDF Converter](https://github.com/student-Ayanpal/Web-article-to-PDF-Converter.git) – Convert any web article into a PDF  
 🔹 [My First GUI Project](https://github.com/student-Ayanpal/My_First_GUI_Project.git) – Basic GUI application using Tkinter  
-🔹 [snake-game-js-canvas]() – Modern Snake Game built with HTML, CSS, JS
+🔹 [snake-game-js-canvas](https://github.com/student-Ayanpal/snake-game-js-canvas) – Modern Snake Game built with HTML, CSS, JS
 <br>
 🔹 [Solar System](https://github.com/student-Ayanpal/solar-system.git) – Interactive solar system simulation using HTML, CSS, JS  
 
