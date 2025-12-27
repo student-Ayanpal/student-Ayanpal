@@ -10,7 +10,7 @@
 
 # 👨‍💻 Ayan Pal  
 
-🌟 B.Tech Student | Full-Stack Developer | AI & ML Enthusiast
+🌟 B.Tech Student | Full-Stack Web Developer | AI & ML Enthusiast
 
 ---
 
